@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-https://github.com/nadavbenjamin/nadavbenjamin.github.io/blob/master/files/CV_NBenjamin.pdf
+(../files/CV_NBenjamin.pdf)

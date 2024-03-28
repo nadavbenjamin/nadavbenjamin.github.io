@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Find my CV <a href="../files/CV_NBenjamin.pdf">here</a>!
+<embed src="../files/CV_NBenjamin.pdf" type="application/pdf" width="600px" height="500px" />

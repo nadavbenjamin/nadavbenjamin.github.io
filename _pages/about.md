@@ -12,4 +12,4 @@ redirect_from:
 
 <p>I am a native speaker of English and fluent in Spanish, with just a touch of American Sign Language and French in my repertoire– Hebrew and Swedish, you're up next!</p>
   
-<p>When I am not in class or teaching, you can probably find me crocheting, cross stitching, or editing my [literary magazine](https://transientsmagazine.weebly.com/).</p>
+<p>When I am not in class or teaching, you can probably find me crocheting, cross stitching, or editing my [literary magazine](https://transientsmagazine.weebly.com).</p>

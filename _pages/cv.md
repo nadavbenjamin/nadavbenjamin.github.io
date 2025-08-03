@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="../files/CV_Nadav Benjamin_Sept22_2024.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="../files/CV_Nadav Benjamin.pdf" type="application/pdf" width="600px" height="500px" />

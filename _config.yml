@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "nadav benjamin"
 title_separator          : "-"
 name                     : &name "nadav benjamin"
-description              : &description "PhD Student in Hispanic Linguistics at the University of Zaragoza"
+description              : &description "Student Affairs Professional and Languages Lover"
 url                      : https://nadavbenjamin.github.io
 repository               : "nadavbenjamin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 # Site Author
 author:
   name             : "nadav benjamin"
-  avatar           : "IMG_6809.jpeg"
-  bio              : "Hispanic linguistics student at the Unviersity of Zaragoza"
-  location         : "Zaragoza, Aragón, Spain"
+  avatar           : "Headshot.png"
+  bio              : "Student Affairs Professional and Languages Lover"
+  location         : "Danville, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "nadav@unizar.es"
+  email            : "nadavebenjamin@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
